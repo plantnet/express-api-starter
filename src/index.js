@@ -1,5 +1,6 @@
 import http from 'node:http';
 import app from './app.js';
+import 'dotenv/config';
 
 /**
  * Create HTTP server.
